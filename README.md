@@ -12,6 +12,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;Hi, I am Hifzurrehman. I am a passionate self-taught full-stack and mobile app developer. I am experienced with developing reusable/maintainable code in JavaScript/React-native/React js and Java. I started out as a developer alongwith my final year studies in 2019. Since then, I have gained experience and improved my software developments skills considerably. I like to keep myself updated with the latest technologies and trends. I have always been enthusiastic about developing software and providing the best user friendly software to the users..\
 🎓 &nbsp;I'm currently studying Computer Science at the University of Mumbai.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue freelancing and Blog Writing as hobbies/side hustles.\
@@ -55,7 +56,7 @@
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/3306"><img src="https://img.shields.io/badge/-Hifzur%20Rehman%20Khan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fk331998@gmail.com"><img src="https://img.shields.io/badge/-fifzur-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:fk331998@gmail.com"><img src="https://img.shields.io/badge/-Hifzurrehman-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-@Hifzur-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/"><img src="https://img.shields.io/badge/-@Hifzur-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a> -->
