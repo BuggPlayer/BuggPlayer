@@ -12,12 +12,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-🎓 &nbsp;Hi, .\
-I am Hifzurrehman. I am a passionate self-taught full-stack and mobile app developer..\
-I am experienced with developing reusable/maintainable code in JavaScript/React-native/React js and Java..\
-I started out as a developer alongwith my final year studies in 2019. Since then, I have gained experience and improved my software developments skills considerably..\
+🎓 &nbsp;Hi, \
+I am Hifzurrehman. I am a passionate self-taught full-stack and mobile app developer.\
+I am experienced with developing reusable/maintainable code in JavaScript/React-native/React js and Java.\
+I started out as a developer alongwith my final year studies in 2019. Since then, I have gained experience and improved my software developments skills considerably.\
 I like to keep myself updated with the latest technologies and trends..\
-I have always been enthusiastic about developing software and providing the best user friendly software to the users..\
+I have always been enthusiastic about developing software and providing the best user friendly software to the users.\
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
